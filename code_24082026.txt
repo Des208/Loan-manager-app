@@ -1,0 +1,16 @@
+loan-manager-app/
+├── README.md
+├── app/
+│   ├── build.gradle
+│   ├── src/
+│   │   └── main/
+│   │       ├── AndroidManifest.xml
+│   │       ├── java/com/loanmanager/app/
+│   │       │   ├── MainActivity.kt
+│   │       │   └── DatabaseHelper.kt
+│   │       └── res/
+│   │           └── values/
+│   │               ├── strings.xml
+│   │               └── themes.xml
+├── build.gradle
+└── settings.gradle
